@@ -37,7 +37,7 @@ local Tab4 = Window:MakeTab({
 	Icon = "rbxassetid://7072717857",
 	PremiumOnly = false
 })
-Tab4:AddLabel("Kuya: Script Developer (kuya.erick#6969)")
+Tab4:AddLabel("ENZ0: Script Developer (kuya.erick#6969)")
 Tab4:AddLabel("NetBox: GUI Developer (troy#0666)")
 Tab4:AddLabel("Join The Discord For Updates: .gg/XWEJZPAy")
 
@@ -74,7 +74,7 @@ Tab:AddButton({
 Tab2:AddButton({
 	Name = "Autoplayer (Kuya.Erickk)",
 	Callback = function()
-       	loadstring(game:HttpGet("https://raw.githubusercontent.com/kuyaerickk/Funky-Fridayz/main/AutoPlayer%20FNF",true))()
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/kuyaerickk/Funky-Friday/main/Funky%20Friday",true))()
   	end    
 })
 
