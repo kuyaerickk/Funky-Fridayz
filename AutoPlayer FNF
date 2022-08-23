@@ -74,7 +74,7 @@ Tab:AddButton({
 Tab2:AddButton({
 	Name = "Autoplayer (Kuya.Erickk)",
 	Callback = function()
-       	https://raw.githubusercontent.com/kuyaerickk/Funky-Friday/main/Funky%20Friday
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/kuyaerickk/Funky-Fridayz/main/AutoPlayer%20FNF",true))()
   	end    
 })
 
